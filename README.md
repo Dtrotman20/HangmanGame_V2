@@ -1,5 +1,5 @@
 # Hangman Game
-A simple hangman game made with React. Unit testing has been added to improve code stability.
+A simple hangman game made with React. Unit testing has been added to improve code stability. I am currently working on adding a Database in order to track winning percentages of players.
 
 ## SETUP
 - Clone respository in your terminal using the command: git clone https://github.com/Dtrotman20/HangmanGame.git
